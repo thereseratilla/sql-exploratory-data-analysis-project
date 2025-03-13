@@ -4,6 +4,7 @@
 Purpose: 
   - To explore the structure of the database, i.e., tables and schemas
   - To inspect the columns within specific tables
+-------------------------------------------------------------------------------------
 */
 
 -- 1.1 Explore Objects in the Database: Check the metadata
