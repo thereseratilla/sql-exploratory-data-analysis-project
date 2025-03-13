@@ -2,7 +2,8 @@
 11. DATA SEGMENTATION: 
 -------------------------------------------------------------------------------------
 Purpose: 
-  - To group certain measures to understand understand correlation between them
+	- To group certain measures to understand understand correlation between them
+	- To evaluate differences across dimesions or time periods
 
 SQL FUNCTIONS:
   - Aggregate Functions
