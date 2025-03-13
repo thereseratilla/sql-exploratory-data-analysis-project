@@ -1,6 +1,13 @@
 /*------------------------------------------------------------------------------------
 5. MAGNITUDE ANALYSIS
--------------------------------------------------------------------------------------*/
+-------------------------------------------------------------------------------------
+Purpose: 
+	- To quantify data based on specific dimensions
+	- Understanding distribution accross categories
+SQL FUNCTIONS:
+	- Aggregate Functions
+-------------------------------------------------------------------------------------
+*/
 
 ------ Find total customers by countries
 
