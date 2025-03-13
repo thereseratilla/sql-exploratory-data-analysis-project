@@ -5,7 +5,7 @@
   - To identify top and worse performers
 
 SQL FUNCTIONS:
-  - Aggregation functions 
+  - Aggregate functions 
   - Window fuctions
 
 -------------------------------------------------------------------------------------
