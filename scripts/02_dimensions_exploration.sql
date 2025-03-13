@@ -12,8 +12,9 @@ FROM gold.dim_customers;
 
 ------ What are the product categories, subcategories and product name in the business?
 
-SELECT	 DISTINCT category
-		,subcategory
-		,product_name
+SELECT	 
+	DISTINCT category
+	,subcategory
+	,product_name
 FROM gold.dim_products
 ORDER BY 1,2,3;
